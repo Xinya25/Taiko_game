@@ -1,0 +1,1362 @@
+Track name :
+I have my YOUNG
+
+Artist :
+Fahrenheit
+
+Level :
+1
+
+Difficulty :
+1
+
+BPM :
+100
+
+Start Duration :
+47.10642371271431
+
+array length :
+134
+
+
+Beat no.
+96
+Property :
+1
+Size :
+false
+Duration :
+2447.1064237127143
+
+
+Beat no.
+108
+Property :
+1
+Size :
+false
+Duration :
+2747.1064237127143
+
+
+Beat no.
+132
+Property :
+2
+Size :
+true
+Duration :
+3347.1064237127143
+
+
+Beat no.
+192
+Property :
+1
+Size :
+false
+Duration :
+4847.106423712714
+
+
+Beat no.
+204
+Property :
+1
+Size :
+false
+Duration :
+5147.106423712714
+
+
+Beat no.
+240
+Property :
+1
+Size :
+false
+Duration :
+6047.106423712714
+
+
+Beat no.
+252
+Property :
+1
+Size :
+false
+Duration :
+6347.106423712714
+
+
+Beat no.
+288
+Property :
+1
+Size :
+false
+Duration :
+7247.106423712714
+
+
+Beat no.
+312
+Property :
+1
+Size :
+false
+Duration :
+7847.106423712714
+
+
+Beat no.
+336
+Property :
+2
+Size :
+false
+Duration :
+8447.106423712714
+
+
+Beat no.
+384
+Property :
+1
+Size :
+false
+Duration :
+9647.106423712714
+
+
+Beat no.
+396
+Property :
+1
+Size :
+false
+Duration :
+9947.106423712714
+
+
+Beat no.
+432
+Property :
+1
+Size :
+false
+Duration :
+10847.106423712714
+
+
+Beat no.
+444
+Property :
+1
+Size :
+false
+Duration :
+11147.106423712714
+
+
+Beat no.
+480
+Property :
+1
+Size :
+false
+Duration :
+12047.106423712714
+
+
+Beat no.
+492
+Property :
+1
+Size :
+false
+Duration :
+12347.106423712714
+
+
+Beat no.
+516
+Property :
+2
+Size :
+true
+Duration :
+12947.106423712714
+
+
+Beat no.
+576
+Property :
+1
+Size :
+false
+Duration :
+14447.106423712714
+
+
+Beat no.
+588
+Property :
+1
+Size :
+false
+Duration :
+14747.106423712714
+
+
+Beat no.
+624
+Property :
+1
+Size :
+false
+Duration :
+15647.106423712714
+
+
+Beat no.
+636
+Property :
+1
+Size :
+false
+Duration :
+15947.106423712714
+
+
+Beat no.
+672
+Property :
+1
+Size :
+false
+Duration :
+16847.106423712714
+
+
+Beat no.
+696
+Property :
+1
+Size :
+false
+Duration :
+17447.106423712714
+
+
+Beat no.
+720
+Property :
+2
+Size :
+false
+Duration :
+18047.106423712714
+
+
+Beat no.
+768
+Property :
+1
+Size :
+false
+Duration :
+19247.106423712714
+
+
+Beat no.
+792
+Property :
+1
+Size :
+false
+Duration :
+19847.106423712714
+
+
+Beat no.
+828
+Property :
+1
+Size :
+false
+Duration :
+20747.106423712714
+
+
+Beat no.
+840
+Property :
+1
+Size :
+false
+Duration :
+21047.106423712714
+
+
+Beat no.
+864
+Property :
+1
+Size :
+false
+Duration :
+21647.106423712714
+
+
+Beat no.
+888
+Property :
+1
+Size :
+false
+Duration :
+22247.106423712714
+
+
+Beat no.
+912
+Property :
+1
+Size :
+false
+Duration :
+22847.106423712714
+
+
+Beat no.
+960
+Property :
+1
+Size :
+false
+Duration :
+24047.106423712714
+
+
+Beat no.
+984
+Property :
+1
+Size :
+false
+Duration :
+24647.106423712714
+
+
+Beat no.
+1020
+Property :
+1
+Size :
+false
+Duration :
+25547.106423712714
+
+
+Beat no.
+1032
+Property :
+1
+Size :
+false
+Duration :
+25847.106423712714
+
+
+Beat no.
+1056
+Property :
+3
+Size :
+false
+Duration :
+26447.106423712714
+
+
+Beat no.
+1092
+Property :
+3
+Size :
+false
+Duration :
+27347.106423712714
+
+
+Beat no.
+1152
+Property :
+1
+Size :
+false
+Duration :
+28847.106423712714
+
+
+Beat no.
+1176
+Property :
+1
+Size :
+false
+Duration :
+29447.106423712714
+
+
+Beat no.
+1212
+Property :
+1
+Size :
+false
+Duration :
+30347.106423712714
+
+
+Beat no.
+1224
+Property :
+1
+Size :
+false
+Duration :
+30647.106423712714
+
+
+Beat no.
+1248
+Property :
+1
+Size :
+false
+Duration :
+31247.106423712714
+
+
+Beat no.
+1272
+Property :
+1
+Size :
+false
+Duration :
+31847.106423712714
+
+
+Beat no.
+1296
+Property :
+1
+Size :
+false
+Duration :
+32447.106423712714
+
+
+Beat no.
+1344
+Property :
+1
+Size :
+false
+Duration :
+33647.106423712714
+
+
+Beat no.
+1368
+Property :
+1
+Size :
+false
+Duration :
+34247.106423712714
+
+
+Beat no.
+1404
+Property :
+1
+Size :
+false
+Duration :
+35147.106423712714
+
+
+Beat no.
+1416
+Property :
+1
+Size :
+false
+Duration :
+35447.106423712714
+
+
+Beat no.
+1440
+Property :
+3
+Size :
+false
+Duration :
+36047.106423712714
+
+
+Beat no.
+1476
+Property :
+3
+Size :
+false
+Duration :
+36947.106423712714
+
+
+Beat no.
+1536
+Property :
+1
+Size :
+false
+Duration :
+38447.106423712714
+
+
+Beat no.
+1560
+Property :
+1
+Size :
+false
+Duration :
+39047.106423712714
+
+
+Beat no.
+1596
+Property :
+1
+Size :
+false
+Duration :
+39947.106423712714
+
+
+Beat no.
+1608
+Property :
+1
+Size :
+false
+Duration :
+40247.106423712714
+
+
+Beat no.
+1632
+Property :
+1
+Size :
+false
+Duration :
+40847.106423712714
+
+
+Beat no.
+1656
+Property :
+1
+Size :
+false
+Duration :
+41447.106423712714
+
+
+Beat no.
+1680
+Property :
+1
+Size :
+false
+Duration :
+42047.106423712714
+
+
+Beat no.
+1728
+Property :
+1
+Size :
+false
+Duration :
+43247.106423712714
+
+
+Beat no.
+1752
+Property :
+1
+Size :
+false
+Duration :
+43847.106423712714
+
+
+Beat no.
+1788
+Property :
+1
+Size :
+false
+Duration :
+44747.106423712714
+
+
+Beat no.
+1800
+Property :
+1
+Size :
+false
+Duration :
+45047.106423712714
+
+
+Beat no.
+1824
+Property :
+2
+Size :
+false
+Duration :
+45647.106423712714
+
+
+Beat no.
+1848
+Property :
+2
+Size :
+false
+Duration :
+46247.106423712714
+
+
+Beat no.
+1872
+Property :
+2
+Size :
+false
+Duration :
+46847.106423712714
+
+
+Beat no.
+1920
+Property :
+1
+Size :
+false
+Duration :
+48047.106423712714
+
+
+Beat no.
+1944
+Property :
+1
+Size :
+false
+Duration :
+48647.106423712714
+
+
+Beat no.
+1980
+Property :
+1
+Size :
+false
+Duration :
+49547.106423712714
+
+
+Beat no.
+1992
+Property :
+1
+Size :
+false
+Duration :
+49847.106423712714
+
+
+Beat no.
+2016
+Property :
+1
+Size :
+false
+Duration :
+50447.106423712714
+
+
+Beat no.
+2040
+Property :
+1
+Size :
+false
+Duration :
+51047.106423712714
+
+
+Beat no.
+2064
+Property :
+1
+Size :
+false
+Duration :
+51647.106423712714
+
+
+Beat no.
+2112
+Property :
+1
+Size :
+false
+Duration :
+52847.106423712714
+
+
+Beat no.
+2136
+Property :
+1
+Size :
+false
+Duration :
+53447.106423712714
+
+
+Beat no.
+2172
+Property :
+1
+Size :
+false
+Duration :
+54347.106423712714
+
+
+Beat no.
+2184
+Property :
+1
+Size :
+false
+Duration :
+54647.106423712714
+
+
+Beat no.
+2208
+Property :
+3
+Size :
+false
+Duration :
+55247.106423712714
+
+
+Beat no.
+2244
+Property :
+3
+Size :
+false
+Duration :
+56147.106423712714
+
+
+Beat no.
+2304
+Property :
+1
+Size :
+false
+Duration :
+57647.106423712714
+
+
+Beat no.
+2316
+Property :
+1
+Size :
+false
+Duration :
+57947.106423712714
+
+
+Beat no.
+2328
+Property :
+1
+Size :
+false
+Duration :
+58247.106423712714
+
+
+Beat no.
+2352
+Property :
+1
+Size :
+false
+Duration :
+58847.106423712714
+
+
+Beat no.
+2400
+Property :
+1
+Size :
+false
+Duration :
+60047.106423712714
+
+
+Beat no.
+2424
+Property :
+1
+Size :
+false
+Duration :
+60647.106423712714
+
+
+Beat no.
+2496
+Property :
+1
+Size :
+false
+Duration :
+62447.106423712714
+
+
+Beat no.
+2508
+Property :
+1
+Size :
+false
+Duration :
+62747.106423712714
+
+
+Beat no.
+2520
+Property :
+1
+Size :
+false
+Duration :
+63047.106423712714
+
+
+Beat no.
+2544
+Property :
+1
+Size :
+false
+Duration :
+63647.106423712714
+
+
+Beat no.
+2568
+Property :
+1
+Size :
+false
+Duration :
+64247.106423712714
+
+
+Beat no.
+2592
+Property :
+1
+Size :
+false
+Duration :
+64847.106423712714
+
+
+Beat no.
+2688
+Property :
+1
+Size :
+false
+Duration :
+67247.10642371271
+
+
+Beat no.
+2700
+Property :
+1
+Size :
+false
+Duration :
+67547.10642371271
+
+
+Beat no.
+2712
+Property :
+1
+Size :
+false
+Duration :
+67847.10642371271
+
+
+Beat no.
+2736
+Property :
+1
+Size :
+false
+Duration :
+68447.10642371271
+
+
+Beat no.
+2784
+Property :
+1
+Size :
+false
+Duration :
+69647.10642371271
+
+
+Beat no.
+2808
+Property :
+1
+Size :
+false
+Duration :
+70247.10642371271
+
+
+Beat no.
+2880
+Property :
+1
+Size :
+false
+Duration :
+72047.10642371271
+
+
+Beat no.
+2904
+Property :
+1
+Size :
+false
+Duration :
+72647.10642371271
+
+
+Beat no.
+2916
+Property :
+1
+Size :
+false
+Duration :
+72947.10642371271
+
+
+Beat no.
+2940
+Property :
+2
+Size :
+false
+Duration :
+73547.10642371271
+
+
+Beat no.
+2952
+Property :
+2
+Size :
+false
+Duration :
+73847.10642371271
+
+
+Beat no.
+2976
+Property :
+3
+Size :
+false
+Duration :
+74447.10642371271
+
+
+Beat no.
+3024
+Property :
+3
+Size :
+false
+Duration :
+75647.10642371271
+
+
+Beat no.
+3072
+Property :
+1
+Size :
+false
+Duration :
+76847.10642371271
+
+
+Beat no.
+3084
+Property :
+1
+Size :
+false
+Duration :
+77147.10642371271
+
+
+Beat no.
+3096
+Property :
+1
+Size :
+false
+Duration :
+77447.10642371271
+
+
+Beat no.
+3120
+Property :
+1
+Size :
+false
+Duration :
+78047.10642371271
+
+
+Beat no.
+3132
+Property :
+1
+Size :
+false
+Duration :
+78347.10642371271
+
+
+Beat no.
+3144
+Property :
+1
+Size :
+false
+Duration :
+78647.10642371271
+
+
+Beat no.
+3168
+Property :
+1
+Size :
+false
+Duration :
+79247.10642371271
+
+
+Beat no.
+3180
+Property :
+1
+Size :
+false
+Duration :
+79547.10642371271
+
+
+Beat no.
+3192
+Property :
+1
+Size :
+false
+Duration :
+79847.10642371271
+
+
+Beat no.
+3264
+Property :
+1
+Size :
+false
+Duration :
+81647.10642371271
+
+
+Beat no.
+3276
+Property :
+1
+Size :
+false
+Duration :
+81947.10642371271
+
+
+Beat no.
+3288
+Property :
+1
+Size :
+false
+Duration :
+82247.10642371271
+
+
+Beat no.
+3312
+Property :
+1
+Size :
+false
+Duration :
+82847.10642371271
+
+
+Beat no.
+3324
+Property :
+1
+Size :
+false
+Duration :
+83147.10642371271
+
+
+Beat no.
+3336
+Property :
+1
+Size :
+false
+Duration :
+83447.10642371271
+
+
+Beat no.
+3360
+Property :
+1
+Size :
+false
+Duration :
+84047.10642371271
+
+
+Beat no.
+3456
+Property :
+1
+Size :
+false
+Duration :
+86447.10642371271
+
+
+Beat no.
+3468
+Property :
+1
+Size :
+false
+Duration :
+86747.10642371271
+
+
+Beat no.
+3480
+Property :
+1
+Size :
+false
+Duration :
+87047.10642371271
+
+
+Beat no.
+3504
+Property :
+1
+Size :
+false
+Duration :
+87647.10642371271
+
+
+Beat no.
+3516
+Property :
+1
+Size :
+false
+Duration :
+87947.10642371271
+
+
+Beat no.
+3528
+Property :
+1
+Size :
+false
+Duration :
+88247.10642371271
+
+
+Beat no.
+3552
+Property :
+1
+Size :
+false
+Duration :
+88847.10642371271
+
+
+Beat no.
+3564
+Property :
+1
+Size :
+false
+Duration :
+89147.10642371271
+
+
+Beat no.
+3576
+Property :
+1
+Size :
+false
+Duration :
+89447.10642371271
+
+
+Beat no.
+3648
+Property :
+1
+Size :
+false
+Duration :
+91247.10642371271
+
+
+Beat no.
+3660
+Property :
+1
+Size :
+false
+Duration :
+91547.10642371271
+
+
+Beat no.
+3672
+Property :
+1
+Size :
+false
+Duration :
+91847.10642371271
+
+
+Beat no.
+3696
+Property :
+1
+Size :
+false
+Duration :
+92447.10642371271
+
+
+Beat no.
+3708
+Property :
+1
+Size :
+false
+Duration :
+92747.10642371271
+
+
+Beat no.
+3720
+Property :
+1
+Size :
+false
+Duration :
+93047.10642371271
+
+
+Beat no.
+3744
+Property :
+3
+Size :
+false
+Duration :
+93647.10642371271
+
+

@@ -1,0 +1,1621 @@
+Track name :
+GEAR UP
+
+Artist :
+DFG
+
+Level :
+0
+
+Difficulty :
+1
+
+BPM :
+146.0
+
+Start Duration :
+15082.484648577998
+
+array length :
+160
+
+Beat no.
+0
+Property :
+1
+Size :
+false
+Duration :
+15082.484648577998
+
+
+Beat no.
+48
+Property :
+1
+Size :
+false
+Duration :
+15904.402456797176
+
+
+Beat no.
+72
+Property :
+1
+Size :
+false
+Duration :
+16315.361360906765
+
+
+Beat no.
+96
+Property :
+1
+Size :
+false
+Duration :
+16726.320265016355
+
+
+Beat no.
+144
+Property :
+1
+Size :
+false
+Duration :
+17548.23807323553
+
+
+Beat no.
+168
+Property :
+1
+Size :
+false
+Duration :
+17959.19697734512
+
+
+Beat no.
+192
+Property :
+1
+Size :
+false
+Duration :
+18370.15588145471
+
+
+Beat no.
+240
+Property :
+2
+Size :
+false
+Duration :
+19192.07368967389
+
+
+Beat no.
+288
+Property :
+1
+Size :
+false
+Duration :
+20013.99149789307
+
+
+Beat no.
+336
+Property :
+2
+Size :
+false
+Duration :
+20835.909306112244
+
+
+Beat no.
+384
+Property :
+1
+Size :
+false
+Duration :
+21657.827114331423
+
+
+Beat no.
+432
+Property :
+1
+Size :
+false
+Duration :
+22479.7449225506
+
+
+Beat no.
+456
+Property :
+1
+Size :
+false
+Duration :
+22890.70382666019
+
+
+Beat no.
+480
+Property :
+1
+Size :
+false
+Duration :
+23301.662730769778
+
+
+Beat no.
+528
+Property :
+1
+Size :
+false
+Duration :
+24123.580538988957
+
+
+Beat no.
+552
+Property :
+1
+Size :
+false
+Duration :
+24534.539443098547
+
+
+Beat no.
+576
+Property :
+1
+Size :
+false
+Duration :
+24945.498347208137
+
+
+Beat no.
+624
+Property :
+2
+Size :
+false
+Duration :
+25767.416155427312
+
+
+Beat no.
+672
+Property :
+3
+Size :
+false
+Duration :
+26589.33396364649
+
+
+Beat no.
+720
+Property :
+3
+Size :
+false
+Duration :
+27411.251771865667
+
+
+Beat no.
+768
+Property :
+1
+Size :
+false
+Duration :
+28233.169580084847
+
+
+Beat no.
+792
+Property :
+2
+Size :
+false
+Duration :
+28644.128484194436
+
+
+Beat no.
+816
+Property :
+1
+Size :
+false
+Duration :
+29055.087388304026
+
+
+Beat no.
+864
+Property :
+1
+Size :
+false
+Duration :
+29877.005196523205
+
+
+Beat no.
+888
+Property :
+2
+Size :
+false
+Duration :
+30287.964100632795
+
+
+Beat no.
+912
+Property :
+1
+Size :
+false
+Duration :
+30698.923004742384
+
+
+Beat no.
+960
+Property :
+1
+Size :
+false
+Duration :
+31520.840812961564
+
+
+Beat no.
+1008
+Property :
+1
+Size :
+false
+Duration :
+32342.758621180736
+
+
+Beat no.
+1056
+Property :
+3
+Size :
+false
+Duration :
+33164.676429399915
+
+
+Beat no.
+1104
+Property :
+3
+Size :
+false
+Duration :
+33986.594237619094
+
+
+Beat no.
+1152
+Property :
+1
+Size :
+false
+Duration :
+34808.51204583827
+
+
+Beat no.
+1176
+Property :
+2
+Size :
+false
+Duration :
+35219.47094994786
+
+
+Beat no.
+1200
+Property :
+1
+Size :
+false
+Duration :
+35630.429854057445
+
+
+Beat no.
+1248
+Property :
+1
+Size :
+false
+Duration :
+36452.347662276625
+
+
+Beat no.
+1272
+Property :
+2
+Size :
+false
+Duration :
+36863.306566386214
+
+
+Beat no.
+1296
+Property :
+1
+Size :
+false
+Duration :
+37274.26547049581
+
+
+Beat no.
+1344
+Property :
+1
+Size :
+false
+Duration :
+38096.18327871498
+
+
+Beat no.
+1392
+Property :
+1
+Size :
+false
+Duration :
+38918.10108693416
+
+
+Beat no.
+1440
+Property :
+1
+Size :
+false
+Duration :
+39740.01889515334
+
+
+Beat no.
+1488
+Property :
+2
+Size :
+false
+Duration :
+40561.93670337252
+
+
+Beat no.
+1536
+Property :
+1
+Size :
+true
+Duration :
+41383.85451159169
+
+
+Beat no.
+1632
+Property :
+1
+Size :
+true
+Duration :
+43027.69012803005
+
+
+Beat no.
+1728
+Property :
+1
+Size :
+true
+Duration :
+44671.52574446841
+
+
+Beat no.
+1824
+Property :
+1
+Size :
+true
+Duration :
+46315.36136090677
+
+
+Beat no.
+1872
+Property :
+2
+Size :
+true
+Duration :
+47137.27916912594
+
+
+Beat no.
+1920
+Property :
+1
+Size :
+true
+Duration :
+47959.19697734513
+
+
+Beat no.
+2016
+Property :
+1
+Size :
+true
+Duration :
+49603.03259378348
+
+
+Beat no.
+2112
+Property :
+1
+Size :
+true
+Duration :
+51246.86821022184
+
+
+Beat no.
+2160
+Property :
+1
+Size :
+true
+Duration :
+52068.78601844102
+
+
+Beat no.
+2208
+Property :
+3
+Size :
+true
+Duration :
+52890.70382666019
+
+
+Beat no.
+2280
+Property :
+3
+Size :
+true
+Duration :
+54123.58053898896
+
+
+Beat no.
+2304
+Property :
+1
+Size :
+false
+Duration :
+54534.53944309855
+
+
+Beat no.
+2328
+Property :
+1
+Size :
+false
+Duration :
+54945.49834720814
+
+
+Beat no.
+2352
+Property :
+1
+Size :
+false
+Duration :
+55356.457251317726
+
+
+Beat no.
+2400
+Property :
+1
+Size :
+false
+Duration :
+56178.3750595369
+
+
+Beat no.
+2424
+Property :
+1
+Size :
+false
+Duration :
+56589.333963646495
+
+
+Beat no.
+2448
+Property :
+2
+Size :
+false
+Duration :
+57000.292867756085
+
+
+Beat no.
+2496
+Property :
+1
+Size :
+false
+Duration :
+57822.21067597526
+
+
+Beat no.
+2520
+Property :
+1
+Size :
+false
+Duration :
+58233.169580084854
+
+
+Beat no.
+2544
+Property :
+1
+Size :
+false
+Duration :
+58644.128484194436
+
+
+Beat no.
+2592
+Property :
+2
+Size :
+false
+Duration :
+59466.04629241362
+
+
+Beat no.
+2616
+Property :
+2
+Size :
+false
+Duration :
+59877.005196523205
+
+
+Beat no.
+2640
+Property :
+2
+Size :
+false
+Duration :
+60287.964100632795
+
+
+Beat no.
+2688
+Property :
+1
+Size :
+false
+Duration :
+61109.881908851974
+
+
+Beat no.
+2712
+Property :
+1
+Size :
+false
+Duration :
+61520.840812961564
+
+
+Beat no.
+2736
+Property :
+1
+Size :
+false
+Duration :
+61931.799717071146
+
+
+Beat no.
+2784
+Property :
+1
+Size :
+false
+Duration :
+62753.71752529033
+
+
+Beat no.
+2808
+Property :
+1
+Size :
+false
+Duration :
+63164.676429399915
+
+
+Beat no.
+2832
+Property :
+2
+Size :
+false
+Duration :
+63575.635333509505
+
+
+Beat no.
+2880
+Property :
+1
+Size :
+false
+Duration :
+64397.553141728684
+
+
+Beat no.
+2904
+Property :
+1
+Size :
+false
+Duration :
+64808.51204583827
+
+
+Beat no.
+2928
+Property :
+1
+Size :
+false
+Duration :
+65219.47094994786
+
+
+Beat no.
+2952
+Property :
+1
+Size :
+false
+Duration :
+65630.42985405745
+
+
+Beat no.
+2976
+Property :
+1
+Size :
+false
+Duration :
+66041.38875816704
+
+
+Beat no.
+3000
+Property :
+1
+Size :
+false
+Duration :
+66452.34766227662
+
+
+Beat no.
+3072
+Property :
+1
+Size :
+false
+Duration :
+67685.22437460539
+
+
+Beat no.
+3120
+Property :
+2
+Size :
+false
+Duration :
+68507.14218282458
+
+
+Beat no.
+3168
+Property :
+2
+Size :
+false
+Duration :
+69329.05999104374
+
+
+Beat no.
+3216
+Property :
+2
+Size :
+false
+Duration :
+70150.97779926292
+
+
+Beat no.
+3264
+Property :
+1
+Size :
+false
+Duration :
+70972.8956074821
+
+
+Beat no.
+3312
+Property :
+2
+Size :
+false
+Duration :
+71794.81341570128
+
+
+Beat no.
+3360
+Property :
+3
+Size :
+false
+Duration :
+72616.73122392046
+
+
+Beat no.
+3384
+Property :
+3
+Size :
+false
+Duration :
+73027.69012803005
+
+
+Beat no.
+3456
+Property :
+1
+Size :
+true
+Duration :
+74260.56684035882
+
+
+Beat no.
+3552
+Property :
+1
+Size :
+true
+Duration :
+75904.40245679718
+
+
+Beat no.
+3648
+Property :
+1
+Size :
+true
+Duration :
+77548.23807323554
+
+
+Beat no.
+3696
+Property :
+1
+Size :
+true
+Duration :
+78370.1558814547
+
+
+Beat no.
+3744
+Property :
+1
+Size :
+true
+Duration :
+79192.07368967388
+
+
+Beat no.
+3792
+Property :
+1
+Size :
+true
+Duration :
+80013.99149789306
+
+
+Beat no.
+3840
+Property :
+3
+Size :
+false
+Duration :
+80835.90930611225
+
+
+Beat no.
+3936
+Property :
+3
+Size :
+false
+Duration :
+82479.7449225506
+
+
+Beat no.
+4224
+Property :
+1
+Size :
+false
+Duration :
+87411.25177186567
+
+
+Beat no.
+4248
+Property :
+2
+Size :
+false
+Duration :
+87822.21067597525
+
+
+Beat no.
+4296
+Property :
+2
+Size :
+false
+Duration :
+88644.12848419444
+
+
+Beat no.
+4344
+Property :
+2
+Size :
+false
+Duration :
+89466.04629241362
+
+
+Beat no.
+4392
+Property :
+2
+Size :
+false
+Duration :
+90287.96410063279
+
+
+Beat no.
+4440
+Property :
+2
+Size :
+false
+Duration :
+91109.88190885197
+
+
+Beat no.
+4488
+Property :
+2
+Size :
+false
+Duration :
+91931.79971707116
+
+
+Beat no.
+4512
+Property :
+1
+Size :
+true
+Duration :
+92342.75862118075
+
+
+Beat no.
+4608
+Property :
+1
+Size :
+false
+Duration :
+93986.5942376191
+
+
+Beat no.
+4632
+Property :
+1
+Size :
+false
+Duration :
+94397.55314172868
+
+
+Beat no.
+4656
+Property :
+1
+Size :
+false
+Duration :
+94808.51204583827
+
+
+Beat no.
+4704
+Property :
+1
+Size :
+false
+Duration :
+95630.42985405745
+
+
+Beat no.
+4728
+Property :
+1
+Size :
+false
+Duration :
+96041.38875816704
+
+
+Beat no.
+4752
+Property :
+2
+Size :
+false
+Duration :
+96452.34766227663
+
+
+Beat no.
+4800
+Property :
+1
+Size :
+false
+Duration :
+97274.2654704958
+
+
+Beat no.
+4824
+Property :
+1
+Size :
+false
+Duration :
+97685.2243746054
+
+
+Beat no.
+4848
+Property :
+1
+Size :
+false
+Duration :
+98096.18327871499
+
+
+Beat no.
+4896
+Property :
+2
+Size :
+false
+Duration :
+98918.10108693417
+
+
+Beat no.
+4920
+Property :
+2
+Size :
+false
+Duration :
+99329.05999104374
+
+
+Beat no.
+4944
+Property :
+2
+Size :
+false
+Duration :
+99740.01889515333
+
+
+Beat no.
+4992
+Property :
+1
+Size :
+false
+Duration :
+100561.93670337251
+
+
+Beat no.
+5016
+Property :
+1
+Size :
+false
+Duration :
+100972.89560748212
+
+
+Beat no.
+5040
+Property :
+1
+Size :
+false
+Duration :
+101383.85451159171
+
+
+Beat no.
+5088
+Property :
+1
+Size :
+false
+Duration :
+102205.77231981087
+
+
+Beat no.
+5112
+Property :
+1
+Size :
+false
+Duration :
+102616.73122392046
+
+
+Beat no.
+5136
+Property :
+2
+Size :
+false
+Duration :
+103027.69012803005
+
+
+Beat no.
+5184
+Property :
+1
+Size :
+false
+Duration :
+103849.60793624925
+
+
+Beat no.
+5208
+Property :
+1
+Size :
+false
+Duration :
+104260.56684035882
+
+
+Beat no.
+5232
+Property :
+1
+Size :
+false
+Duration :
+104671.52574446841
+
+
+Beat no.
+5256
+Property :
+1
+Size :
+false
+Duration :
+105082.484648578
+
+
+Beat no.
+5280
+Property :
+1
+Size :
+false
+Duration :
+105493.44355268759
+
+
+Beat no.
+5304
+Property :
+1
+Size :
+false
+Duration :
+105904.40245679718
+
+
+Beat no.
+5376
+Property :
+1
+Size :
+false
+Duration :
+107137.27916912595
+
+
+Beat no.
+5424
+Property :
+2
+Size :
+false
+Duration :
+107959.19697734513
+
+
+Beat no.
+5472
+Property :
+2
+Size :
+false
+Duration :
+108781.11478556429
+
+
+Beat no.
+5520
+Property :
+2
+Size :
+false
+Duration :
+109603.03259378349
+
+
+Beat no.
+5568
+Property :
+1
+Size :
+false
+Duration :
+110424.95040200267
+
+
+Beat no.
+5616
+Property :
+2
+Size :
+false
+Duration :
+111246.86821022183
+
+
+Beat no.
+5640
+Property :
+3
+Size :
+false
+Duration :
+111657.82711433142
+
+
+Beat no.
+5712
+Property :
+3
+Size :
+false
+Duration :
+112890.7038266602
+
+
+Beat no.
+5760
+Property :
+1
+Size :
+true
+Duration :
+113712.62163487937
+
+
+Beat no.
+5856
+Property :
+1
+Size :
+true
+Duration :
+115356.45725131773
+
+
+Beat no.
+5952
+Property :
+1
+Size :
+true
+Duration :
+117000.29286775608
+
+
+Beat no.
+6000
+Property :
+1
+Size :
+true
+Duration :
+117822.21067597525
+
+
+Beat no.
+6048
+Property :
+1
+Size :
+true
+Duration :
+118644.12848419444
+
+
+Beat no.
+6096
+Property :
+1
+Size :
+true
+Duration :
+119466.04629241362
+
+
+Beat no.
+6144
+Property :
+1
+Size :
+false
+Duration :
+120287.96410063279
+
+
+Beat no.
+6192
+Property :
+1
+Size :
+false
+Duration :
+121109.88190885197
+
+
+Beat no.
+6216
+Property :
+1
+Size :
+false
+Duration :
+121520.84081296156
+
+
+Beat no.
+6240
+Property :
+1
+Size :
+false
+Duration :
+121931.79971707116
+
+
+Beat no.
+6288
+Property :
+1
+Size :
+false
+Duration :
+122753.71752529033
+
+
+Beat no.
+6312
+Property :
+1
+Size :
+false
+Duration :
+123164.67642939991
+
+
+Beat no.
+6336
+Property :
+1
+Size :
+false
+Duration :
+123575.6353335095
+
+
+Beat no.
+6384
+Property :
+2
+Size :
+false
+Duration :
+124397.55314172868
+
+
+Beat no.
+6432
+Property :
+1
+Size :
+false
+Duration :
+125219.47094994786
+
+
+Beat no.
+6480
+Property :
+2
+Size :
+false
+Duration :
+126041.38875816704
+
+
+Beat no.
+6528
+Property :
+1
+Size :
+false
+Duration :
+126863.30656638622
+
+
+Beat no.
+6576
+Property :
+1
+Size :
+false
+Duration :
+127685.2243746054
+
+
+Beat no.
+6600
+Property :
+1
+Size :
+false
+Duration :
+128096.18327871499
+
+
+Beat no.
+6624
+Property :
+1
+Size :
+false
+Duration :
+128507.14218282458
+
+
+Beat no.
+6672
+Property :
+1
+Size :
+false
+Duration :
+129329.05999104374
+
+
+Beat no.
+6696
+Property :
+1
+Size :
+false
+Duration :
+129740.01889515333
+
+
+Beat no.
+6720
+Property :
+1
+Size :
+false
+Duration :
+130150.97779926292
+
+
+Beat no.
+6768
+Property :
+2
+Size :
+false
+Duration :
+130972.89560748212
+
+
+Beat no.
+6816
+Property :
+1
+Size :
+false
+Duration :
+131794.81341570127
+
+
+Beat no.
+6840
+Property :
+1
+Size :
+false
+Duration :
+132205.77231981087
+
+
+Beat no.
+6864
+Property :
+1
+Size :
+false
+Duration :
+132616.73122392045
+
+
+Beat no.
+6888
+Property :
+1
+Size :
+false
+Duration :
+133027.69012803005
+
+
+Beat no.
+6912
+Property :
+3
+Size :
+false
+Duration :
+133438.64903213963
+
+

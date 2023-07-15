@@ -1,0 +1,301 @@
+Track name :
+Neon Evanglion
+
+Artist :
+高橋洋子
+
+Level :
+1
+
+Difficulty :
+1
+
+BPM :
+128
+
+Start Duration :
+15890.763424198001
+
+array length :
+28
+
+Beat no.
+0
+Property :
+1
+Size :
+false
+Duration :
+15890.763424198001
+
+
+Beat no.
+48
+Property :
+1
+Size :
+false
+Duration :
+16828.263424198
+
+
+Beat no.
+96
+Property :
+1
+Size :
+false
+Duration :
+17765.763424198
+
+
+Beat no.
+144
+Property :
+2
+Size :
+false
+Duration :
+18703.263424198
+
+
+Beat no.
+192
+Property :
+1
+Size :
+false
+Duration :
+19640.763424198
+
+
+Beat no.
+240
+Property :
+1
+Size :
+false
+Duration :
+20578.263424198
+
+
+Beat no.
+288
+Property :
+1
+Size :
+false
+Duration :
+21515.763424198
+
+
+Beat no.
+336
+Property :
+2
+Size :
+false
+Duration :
+22453.263424198
+
+
+Beat no.
+384
+Property :
+3
+Size :
+false
+Duration :
+23390.763424198
+
+
+Beat no.
+480
+Property :
+3
+Size :
+false
+Duration :
+25265.763424198
+
+
+Beat no.
+576
+Property :
+1
+Size :
+false
+Duration :
+27140.763424198
+
+
+Beat no.
+624
+Property :
+1
+Size :
+false
+Duration :
+28078.263424198
+
+
+Beat no.
+672
+Property :
+1
+Size :
+false
+Duration :
+29015.763424198
+
+
+Beat no.
+720
+Property :
+1
+Size :
+false
+Duration :
+29953.263424198
+
+
+Beat no.
+768
+Property :
+1
+Size :
+false
+Duration :
+30890.763424198
+
+
+Beat no.
+816
+Property :
+1
+Size :
+false
+Duration :
+31828.263424198
+
+
+Beat no.
+864
+Property :
+1
+Size :
+false
+Duration :
+32765.763424198
+
+
+Beat no.
+912
+Property :
+1
+Size :
+false
+Duration :
+33703.263424198
+
+
+Beat no.
+960
+Property :
+1
+Size :
+false
+Duration :
+34640.763424198
+
+
+Beat no.
+1008
+Property :
+1
+Size :
+false
+Duration :
+35578.263424198
+
+
+Beat no.
+1056
+Property :
+1
+Size :
+false
+Duration :
+36515.763424198
+
+
+Beat no.
+1104
+Property :
+1
+Size :
+false
+Duration :
+37453.263424198
+
+
+Beat no.
+1152
+Property :
+1
+Size :
+false
+Duration :
+38390.763424198
+
+
+Beat no.
+1200
+Property :
+1
+Size :
+false
+Duration :
+39328.263424198
+
+
+Beat no.
+1248
+Property :
+1
+Size :
+false
+Duration :
+40265.763424198
+
+
+Beat no.
+1296
+Property :
+1
+Size :
+false
+Duration :
+41203.263424198
+
+
+Beat no.
+1344
+Property :
+1
+Size :
+false
+Duration :
+42140.763424198
+
+
+Beat no.
+1392
+Property :
+1
+Size :
+false
+Duration :
+43078.263424198
+
+

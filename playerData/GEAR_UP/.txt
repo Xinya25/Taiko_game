@@ -1,0 +1,14 @@
+Song name: 
+1
+score: 
+22170
+Good: 
+8
+Ok: 
+3
+Bad: 
+1
+Combo: 
+2
+Last Combo: 
+0
