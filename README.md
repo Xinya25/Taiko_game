@@ -1,6 +1,8 @@
 # 太鼓の達人 - 使用 OOP 實作
 
-![](./rsc/image/readme_cover.gif)
+<p>
+  <img src="./rsc/image/readme_cover.gif" width="150%" />
+</p>
 
 ## 簡介
 使用 Visual studio、C/C++編成撰寫
