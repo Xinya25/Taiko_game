@@ -35,4 +35,8 @@
 git clone https://github.com/Xinya25/Taiko_game.git
 ```
 
-3. 
+3. 點選 taiko.sln 開啟專案
+![](./rsc/image/readme_img1.png)
+
+4. 建置並執行專案
+![](./rsc/image/readme_img2.png)
