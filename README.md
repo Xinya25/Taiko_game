@@ -1,6 +1,6 @@
 # 太鼓の達人 - 使用 OOP 實作
 
-![](./rsc/image/home_bg.png)
+![](./rsc/image/readme_cover.gif)
 
 ## 簡介
 使用 Visual studio、C/C++編成撰寫
